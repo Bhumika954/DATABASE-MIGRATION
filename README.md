@@ -76,3 +76,9 @@ Task 3 was a deeply practical exercise that reflected real-life responsibilities
 After completing this task, I feel more confident working across database systems and ensuring that data remains reliable and intact when moved. This knowledge will help me in future roles where I might need to manage migrations, data backups, cross-platform support, or cloud-based transitions.
 
 #output
+
+![Image](https://github.com/user-attachments/assets/26a10a74-25f5-4b83-b207-da5202bc5601)
+
+![Image](https://github.com/user-attachments/assets/c273eeb8-dc67-4b11-b109-c9786f3f25a4)
+
+![Image](https://github.com/user-attachments/assets/5daa583a-8961-46a0-aabf-2292202b9ae9)
